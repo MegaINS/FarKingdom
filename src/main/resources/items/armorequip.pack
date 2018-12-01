@@ -1,0 +1,544 @@
+
+armorequip.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+amr_armor_banded1
+  rotate: false
+  xy: 1, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_banded2
+  rotate: false
+  xy: 1, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_banded3
+  rotate: false
+  xy: 91, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_banded4
+  rotate: false
+  xy: 1, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_banded5
+  rotate: false
+  xy: 91, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain1
+  rotate: false
+  xy: 181, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain2
+  rotate: false
+  xy: 1, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain3
+  rotate: false
+  xy: 91, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain3r
+  rotate: false
+  xy: 181, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain4
+  rotate: false
+  xy: 271, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain5
+  rotate: false
+  xy: 1, 491
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain6
+  rotate: false
+  xy: 91, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain6g
+  rotate: false
+  xy: 181, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain7
+  rotate: false
+  xy: 271, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain8
+  rotate: false
+  xy: 361, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain9
+  rotate: false
+  xy: 1, 393
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_chain_b2
+  rotate: false
+  xy: 91, 491
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_hunter1
+  rotate: false
+  xy: 181, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_hunter2
+  rotate: false
+  xy: 271, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_hunter3
+  rotate: false
+  xy: 361, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_hunter4
+  rotate: false
+  xy: 451, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_hunter5
+  rotate: false
+  xy: 1, 295
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_leather1
+  rotate: false
+  xy: 91, 393
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_leather2
+  rotate: false
+  xy: 181, 491
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_leather3
+  rotate: false
+  xy: 271, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_leather4
+  rotate: false
+  xy: 361, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_leather5
+  rotate: false
+  xy: 451, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_leather6
+  rotate: false
+  xy: 541, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_leather7
+  rotate: false
+  xy: 1, 197
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_mine1
+  rotate: false
+  xy: 91, 295
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_mine2
+  rotate: false
+  xy: 181, 393
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_mine3
+  rotate: false
+  xy: 271, 491
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_mine4
+  rotate: false
+  xy: 361, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_mine5
+  rotate: false
+  xy: 451, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate1
+  rotate: false
+  xy: 541, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate10
+  rotate: false
+  xy: 631, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate11
+  rotate: false
+  xy: 1, 99
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate12
+  rotate: false
+  xy: 91, 197
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate13
+  rotate: false
+  xy: 181, 295
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate14
+  rotate: false
+  xy: 271, 393
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate15
+  rotate: false
+  xy: 361, 491
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate2
+  rotate: false
+  xy: 451, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate3
+  rotate: false
+  xy: 541, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate4
+  rotate: false
+  xy: 631, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate5
+  rotate: false
+  xy: 721, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate6
+  rotate: false
+  xy: 1, 1
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate6_l
+  rotate: false
+  xy: 91, 99
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate7
+  rotate: false
+  xy: 181, 197
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate8
+  rotate: false
+  xy: 271, 295
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate9
+  rotate: false
+  xy: 361, 393
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_plate_saakri
+  rotate: false
+  xy: 451, 491
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_wood1
+  rotate: false
+  xy: 541, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_wood2
+  rotate: false
+  xy: 631, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_wood3
+  rotate: false
+  xy: 721, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_wood4
+  rotate: false
+  xy: 811, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+amr_armor_wood5
+  rotate: false
+  xy: 91, 1
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+ctn_1
+  rotate: false
+  xy: 181, 99
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 17
+ctn_1
+  rotate: false
+  xy: 271, 197
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 19
+ctn_2
+  rotate: false
+  xy: 361, 295
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 17
+ctn_2
+  rotate: false
+  xy: 451, 393
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 19
+ctn_3
+  rotate: false
+  xy: 541, 491
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 17
+ctn_3
+  rotate: false
+  xy: 631, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 19
+ctn_4
+  rotate: false
+  xy: 721, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 17
+ctn_4
+  rotate: false
+  xy: 811, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 19
+ctn_8
+  rotate: false
+  xy: 901, 883
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: 1
+eternalbody01
+  rotate: false
+  xy: 181, 1
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set01_body01
+  rotate: false
+  xy: 271, 99
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set02_body01
+  rotate: false
+  xy: 361, 197
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set03_body01
+  rotate: false
+  xy: 451, 295
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set04_body01
+  rotate: false
+  xy: 541, 393
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set05_body01
+  rotate: false
+  xy: 631, 491
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set06_body01
+  rotate: false
+  xy: 721, 589
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set07_body01
+  rotate: false
+  xy: 811, 687
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set08_body01
+  rotate: false
+  xy: 901, 785
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set09_body01
+  rotate: false
+  xy: 271, 1
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set_citadel_panzer
+  rotate: false
+  xy: 361, 99
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+set_etern_panzer
+  rotate: false
+  xy: 451, 197
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1

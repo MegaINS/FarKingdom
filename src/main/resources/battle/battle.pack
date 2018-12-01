@@ -1,0 +1,243 @@
+
+battle.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bar_container
+  rotate: false
+  xy: 1, 428
+  size: 400, 80
+  orig: 400, 80
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 1, 234
+  size: 273, 192
+  orig: 273, 192
+  offset: 0, 0
+  index: -1
+pic
+  rotate: false
+  xy: 1, 53
+  size: 265, 179
+  orig: 265, 179
+  offset: 0, 0
+  index: -1
+bg_all2
+  rotate: false
+  xy: 403, 476
+  size: 160, 32
+  orig: 160, 32
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 41
+  size: 168, 10
+  orig: 168, 10
+  offset: 0, 0
+  index: -1
+allvsall
+  rotate: false
+  xy: 276, 346
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+duel
+  rotate: false
+  xy: 276, 264
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btn_cancel
+  rotate: false
+  xy: 403, 443
+  size: 119, 31
+  orig: 119, 31
+  offset: 0, 0
+  index: -1
+btn_fight
+  rotate: false
+  xy: 565, 477
+  size: 119, 31
+  orig: 119, 31
+  offset: 0, 0
+  index: -1
+dis_cancel
+  rotate: false
+  xy: 1, 8
+  size: 119, 31
+  orig: 119, 31
+  offset: 0, 0
+  index: -1
+dis_fight
+  rotate: false
+  xy: 686, 477
+  size: 119, 31
+  orig: 119, 31
+  offset: 0, 0
+  index: -1
+over_cancel
+  rotate: false
+  xy: 807, 477
+  size: 119, 31
+  orig: 119, 31
+  offset: 0, 0
+  index: -1
+over_fight
+  rotate: false
+  xy: 403, 410
+  size: 119, 31
+  orig: 119, 31
+  offset: 0, 0
+  index: -1
+sel_cancel
+  rotate: false
+  xy: 565, 444
+  size: 119, 31
+  orig: 119, 31
+  offset: 0, 0
+  index: -1
+sel_fight
+  rotate: false
+  xy: 686, 444
+  size: 119, 31
+  orig: 119, 31
+  offset: 0, 0
+  index: -1
+melee
+  rotate: false
+  xy: 358, 328
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+teamduel
+  rotate: false
+  xy: 440, 328
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+teammelee
+  rotate: false
+  xy: 358, 246
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btn_pray
+  rotate: false
+  xy: 440, 259
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+dis_pray
+  rotate: false
+  xy: 928, 441
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+over_pray
+  rotate: false
+  xy: 807, 408
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+sel_pray
+  rotate: false
+  xy: 276, 195
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+btn_block
+  rotate: false
+  xy: 524, 436
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+btn_dodge
+  rotate: false
+  xy: 875, 437
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+btn_hit
+  rotate: false
+  xy: 122, 1
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+btn_hit2
+  rotate: false
+  xy: 268, 155
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+over_block
+  rotate: false
+  xy: 268, 115
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+over_dodge
+  rotate: false
+  xy: 268, 75
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+over_hit
+  rotate: false
+  xy: 308, 155
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+over_hit2
+  rotate: false
+  xy: 308, 115
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+sel_block
+  rotate: false
+  xy: 308, 75
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+sel_dodge
+  rotate: false
+  xy: 875, 397
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+sel_hit
+  rotate: false
+  xy: 915, 401
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+sel_hit2
+  rotate: false
+  xy: 955, 401
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

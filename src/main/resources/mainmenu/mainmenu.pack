@@ -1,0 +1,103 @@
+
+in1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 900, 675
+  orig: 900, 675
+  offset: 0, 0
+  index: -1
+bglogin
+  rotate: false
+  xy: 2, 679
+  size: 256, 163
+  orig: 256, 163
+  offset: 0, 0
+  index: -1
+selexit
+  rotate: false
+  xy: 904, 2
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+selenter
+  rotate: false
+  xy: 904, 27
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+overexit
+  rotate: false
+  xy: 904, 52
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+overenter
+  rotate: false
+  xy: 904, 77
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+btnexit
+  rotate: false
+  xy: 904, 102
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+btnenter
+  rotate: false
+  xy: 904, 127
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+selrestore
+  rotate: false
+  xy: 2, 844
+  size: 131, 19
+  orig: 131, 19
+  offset: 0, 0
+  index: -1
+overrestore
+  rotate: false
+  xy: 2, 865
+  size: 131, 19
+  orig: 131, 19
+  offset: 0, 0
+  index: -1
+btnrestore
+  rotate: false
+  xy: 2, 886
+  size: 131, 19
+  orig: 131, 19
+  offset: 0, 0
+  index: -1
+selregistration
+  rotate: false
+  xy: 135, 844
+  size: 119, 19
+  orig: 119, 19
+  offset: 0, 0
+  index: -1
+overregistration
+  rotate: false
+  xy: 135, 865
+  size: 119, 19
+  orig: 119, 19
+  offset: 0, 0
+  index: -1
+btnregistration
+  rotate: false
+  xy: 2, 907
+  size: 119, 19
+  orig: 119, 19
+  offset: 0, 0
+  index: -1
