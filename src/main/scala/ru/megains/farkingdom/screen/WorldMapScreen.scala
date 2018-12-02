@@ -1,10 +1,13 @@
-package ru.megains.farkingdom
+package ru.megains.farkingdom.screen
 
 import com.badlogic.gdx.graphics.Texture
-import com.badlogic.gdx.{Gdx, InputMultiplexer, Screen}
 import com.badlogic.gdx.graphics.g2d.{Sprite, SpriteBatch, TextureAtlas}
 import com.badlogic.gdx.maps.tiled.renderers.OrthogonalTiledMapRenderer
+import com.badlogic.gdx.scenes.scene2d.Group
+import com.badlogic.gdx.{Gdx, InputMultiplexer, Screen}
 import org.lwjgl.opengl.GL11
+import ru.megains.farkingdom.MainGame
+import ru.megains.farkingdom.world.GameCell
 
 import scala.collection.mutable
 
@@ -22,7 +25,9 @@ class WorldMapScreen extends Screen{
     var send:Texture =_
     var grassSprite:Sprite = _
     var sendSprite:Sprite = _
+    val group:Group = new Group
 
+    var player:Sprite = _
 
 
     override def show(): Unit = {
@@ -33,8 +38,28 @@ class WorldMapScreen extends Screen{
         send = new Texture("map/11697[875x355x8BPP].png")
         sendSprite = new Sprite(send,0,0,174,88)
 
+
+        player  = new Sprite(new Texture("unit/11952[94x101x8BPP].png"))
+
+
+        val scale = 1
+        for( x <- -x to x;
+             y <- -y to y){
+            val sprite:Sprite = if(map(getIndex(x,y)) == 0 ) grassSprite else sendSprite
+            val gameCell = new GameCell(sprite)
+            gameCell.setPosition(
+                scale*(x*88-y*88),
+                scale*(y*44+x*44)
+            )
+            gameCell.setScale(scale)
+        }
+
+
+
+
         multiplexer.addProcessor(stage)
         Gdx.input.setInputProcessor(multiplexer)
+
     }
 
     override def render(delta: Float): Unit = {
@@ -49,20 +74,20 @@ class WorldMapScreen extends Screen{
         //  spriteBatch.draw(texture,0,0)
 
 
-        val scale = 1
-        for( x <- -x to x;
-             y <- -y to y){
-            val sprite:Sprite = if(map(getIndex(x,y)) == 0 ) grassSprite else sendSprite
-            sprite.setPosition(
-                scale*(x*88-y*88),
-                scale*(y*44+x*44)
-            )
-            sprite.setScale(scale)
-            sprite.draw(spriteBatch)
-            // spriteBatch.draw(sprite,x*90-y*88,y*44+x*44)
-        }
-
-
+//        val scale = 1
+//        for( x <- -x to x;
+//             y <- -y to y){
+//            val sprite:Sprite = if(map(getIndex(x,y)) == 0 ) grassSprite else sendSprite
+//            sprite.setPosition(
+//                scale*(x*88-y*88),
+//                scale*(y*44+x*44)
+//            )
+//            sprite.setScale(scale)
+//            sprite.draw(spriteBatch)
+//            // spriteBatch.draw(sprite,x*90-y*88,y*44+x*44)
+//        }
+        group.draw(spriteBatch,0)
+        player.draw(spriteBatch)
         // spriteBatch.draw(grass,0,0)
         spriteBatch.end()
     }

@@ -2,6 +2,7 @@ package ru.megains.farkingdom
 
 import com.badlogic.gdx.Gdx
 import com.badlogic.gdx.graphics.OrthographicCamera
+import com.badlogic.gdx.math.Vector3
 import com.badlogic.gdx.scenes.scene2d.Stage
 import com.badlogic.gdx.utils.viewport.ExtendViewport
 
@@ -31,10 +32,10 @@ class MainGame extends Stage {
         true
     }
 
-//    override def touchUp(x: Int, y: Int, pointer: Int, button: Int): Boolean = {
-//        super.touchUp(x, y, pointer, button)
-//        if(!move) {
-//           val vec = cam.unproject(new Vector3().set(x.toFloat, y.toFloat, 0.0F))
+    override def touchUp(x: Int, y: Int, pointer: Int, button: Int): Boolean = {
+        super.touchUp(x, y, pointer, button)
+        if(!move) {
+           val vec = cam.unproject(new Vector3().set(x.toFloat, y.toFloat, 0.0F))
 //           hit(vec.x, vec.y,false) match {
 //               case gameCell:GameCell=>
 //                  if(gameCell.isEmpty) {
@@ -59,9 +60,9 @@ class MainGame extends Stage {
 //            else if (hitActor.isInstanceOf[Mob]) hitActor.asInstanceOf[Mob].hitAction()
 //            else if (hitActor.isInstanceOf[Trap]) hitActor.asInstanceOf[Trap].hitAction()
 //            Const.screen.click2path(x, y)
-//        }
-    //    true
-   // }
+       }
+        true
+    }
     override def touchDown(x: Int, y: Int, pointer: Int, button: Int): Boolean = {
         super.touchUp(x, y, pointer, button)
         move  = false

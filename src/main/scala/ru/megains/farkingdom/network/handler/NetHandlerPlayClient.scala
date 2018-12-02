@@ -1,7 +1,8 @@
 package ru.megains.farkingdom.network.handler
 
-import ru.megains.farkingdom.{FarKingdom, Logger, WorldMapScreen}
+import ru.megains.farkingdom.{FarKingdom, Logger}
 import ru.megains.farkingdom.network.packet.play.SPacketWorldLoad
+import ru.megains.farkingdom.screen.WorldMapScreen
 
 class NetHandlerPlayClient extends INetHandler with Logger[NetHandlerPlayClient] {
 
