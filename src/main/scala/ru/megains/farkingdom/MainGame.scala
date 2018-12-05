@@ -5,15 +5,19 @@ import com.badlogic.gdx.graphics.OrthographicCamera
 import com.badlogic.gdx.math.Vector3
 import com.badlogic.gdx.scenes.scene2d.Stage
 import com.badlogic.gdx.utils.viewport.ExtendViewport
+import ru.megains.farkingdom.network.NetworkManager
+import ru.megains.farkingdom.network.packet.play.SPlayerAction
+import ru.megains.farkingdom.screen.WorldMapScreen
+import ru.megains.farkingdom.world.GameCell
 
 
-class MainGame extends Stage {
+class MainGame(val worldMapScreen: WorldMapScreen) extends Stage {
 
 
     val cam = new OrthographicCamera
     cam.setToOrtho(false, Gdx.graphics.getWidth.toFloat, Gdx.graphics.getHeight.toFloat)
     var view:ExtendViewport = new ExtendViewport(Gdx.graphics.getWidth.toFloat, Gdx.graphics.getHeight.toFloat, cam)
-   // setViewport(view)
+    setViewport(view)
    // val player = new Player
    // player.setWidth(100.0F)
   //  player.setHeight(100.0F)
@@ -24,7 +28,7 @@ class MainGame extends Stage {
    // val players:mutable.HashMap[Int,Player] = new mutable.HashMap[Int,Player]()
     override def touchDragged(x: Int, y: Int, pointer: Int): Boolean = {
         super.touchDragged(x, y, pointer)
-        if (Gdx.input.isButtonPressed(0)) {
+        if (Gdx.input.isButtonPressed(1)) {
             view.getCamera.translate((-Gdx.input.getDeltaX).toFloat, Gdx.input.getDeltaY.toFloat, 0.0F)
             view.getCamera.update()
         }
@@ -34,18 +38,21 @@ class MainGame extends Stage {
 
     override def touchUp(x: Int, y: Int, pointer: Int, button: Int): Boolean = {
         super.touchUp(x, y, pointer, button)
-        if(!move) {
+        if(button == 0) {
            val vec = cam.unproject(new Vector3().set(x.toFloat, y.toFloat, 0.0F))
-//           hit(vec.x, vec.y,false) match {
-//               case gameCell:GameCell=>
-//                  if(gameCell.isEmpty) {
-//                      Farlands.gameScreen.touchUp(x,y, pointer, button)
-//                  }else{
-//                      Farlands.gameScreen.mine(x, y, pointer, button)
-//                  }
-//               case _ =>
-//                   Farlands.gameScreen.touchUp(x,y, pointer, button)
-//           }
+           hit(vec.x, vec.y,false) match {
+               case gameCell:GameCell=>
+                  if( gameCell.army!= null){
+                      worldMapScreen.selectArmy = gameCell.army
+                  }
+
+                   NetworkManager.sendPacket(new SPlayerAction(PlayerAction.MOVE,gameCell.xCell,gameCell.yCell))
+                  // FarKingdom.gameScreen.touchUp(x,y, pointer, button)
+
+               case value =>
+                   println(value)
+                  // Farlands.gameScreen.touchUp(x,y, pointer, button)
+           }
 //
 //
 //

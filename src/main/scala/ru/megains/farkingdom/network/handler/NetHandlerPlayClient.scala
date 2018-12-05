@@ -1,8 +1,8 @@
 package ru.megains.farkingdom.network.handler
 
-import ru.megains.farkingdom.{FarKingdom, Logger}
-import ru.megains.farkingdom.network.packet.play.SPacketWorldLoad
+import ru.megains.farkingdom.network.packet.play.{CPlayerMove, SLocationPlayer, SPacketWorldLoad}
 import ru.megains.farkingdom.screen.WorldMapScreen
+import ru.megains.farkingdom.{FarKingdom, LocAction, Logger}
 
 class NetHandlerPlayClient extends INetHandler with Logger[NetHandlerPlayClient] {
 
@@ -23,9 +23,11 @@ class NetHandlerPlayClient extends INetHandler with Logger[NetHandlerPlayClient]
 //    }
 
 
-//    def playerMove(move: CPlayerMove): Unit = {
-//        MainGame.player.setPosition(move.posX,move.posY)
-//    }
+    def playerMove(move: CPlayerMove): Unit = {
+
+        FarKingdom.gameScreen.asInstanceOf[WorldMapScreen].players(move.id).setPos(move.posX,move.posY)
+
+    }
 
 
 //    def packetLocInfo(info: SPacketLocInfo): Unit = {
@@ -45,35 +47,32 @@ class NetHandlerPlayClient extends INetHandler with Logger[NetHandlerPlayClient]
 //    def locUpdate(update: SLocUpdate): Unit = {
 //        Farlands.gameScreen.update(update.par1,update.par2)
 //    }
-//    def locationPlayer(in: SLocationPlayer): Unit = {
-//        in.locAction match {
-//            case LocAction.ENTER =>
-//                in.players.foreach{
-//                    case (id,posX,posY)=>
+    def locationPlayer(in: SLocationPlayer): Unit = {
+        in.locAction match {
+            case LocAction.ENTER =>
+                in.players.foreach{
+                    case (id,i, posX,posY)=>
+                        FarKingdom.gameScreen.asInstanceOf[WorldMapScreen].addPlayer(id,i, posX,posY)
 //                        val player = new Player()
 //                        player.init("",id)
-//                        player.setWidth(100.0F)
-//                        player.setHeight(100.0F)
+//                       // player.setWidth(100.0F)
+//                       // player.setHeight(100.0F)
 //                        MainGame.addActor(player)
 //                        player.toFront()
 //                        player.setPosition(posX, posY)
 //                       // player.loadPlayerAtlas(false)
 //                        player.loadAnimations()
 //                        MainGame.players += id -> player
-//
-//
-//                }
-//
-//
-//            case LocAction.MOVE =>
-//                in.players.foreach{
-//                   case (id,posX,posY)=>
-//                        if(id == MainGame.player.getId){
-//                            MainGame.player.setPosition(posX,posY)
-//                        }else{
-//                            MainGame.players(id).setPosition(posX,posY)
-//                        }
-//                }
+
+
+                }
+
+
+            case LocAction.MOVE =>
+                in.players.foreach{
+                   case (id,i, posX,posY)=>
+                       FarKingdom.gameScreen.asInstanceOf[WorldMapScreen].players(id).setPos(posX,posY)
+                }
 //            case LocAction.EXIT =>
 //                in.players.foreach{
 //                    case (id,posX,posY)=>
@@ -81,8 +80,8 @@ class NetHandlerPlayClient extends INetHandler with Logger[NetHandlerPlayClient]
 //                        MainGame.players -= id
 //
 //                }
-//        }
-//    }
+        }
+    }
 
 
 

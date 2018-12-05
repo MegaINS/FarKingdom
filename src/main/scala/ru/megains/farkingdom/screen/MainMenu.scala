@@ -2,7 +2,7 @@ package ru.megains.farkingdom.screen
 
 import java.net.InetAddress
 
-import com.badlogic.gdx.scenes.scene2d.ui.{Label, Skin, TextButton, TextField}
+import com.badlogic.gdx.scenes.scene2d.ui._
 import com.badlogic.gdx.scenes.scene2d.{InputEvent, InputListener, Stage}
 import com.badlogic.gdx.{Gdx, Screen}
 import org.lwjgl.opengl.GL11
@@ -16,7 +16,7 @@ class MainMenu extends Screen {
 
     var stage: Stage = _
     var name = ""
-    var pass = ""
+    var pass = "1111"
 
     override def show(): Unit = {
 
@@ -33,7 +33,7 @@ class MainMenu extends Screen {
         val lLogin = new Label("LOGIN", skin) {
             setPosition(460, 500)
         }
-        val txLogin = new TextField("Test_1", skin) {
+        val txLogin = new TextField("", skin) {
             setPosition(550, 500)
             setSize(150, 25)
         }
@@ -67,13 +67,49 @@ class MainMenu extends Screen {
             })
         }
 
+        val button1 = new TextButton("Test_1", skin) {
+            setPosition(600, 620)
+            addListener(new InputListener() {
+                override def touchUp(event: InputEvent, x: Float, y: Float, pointer: Int, button: Int): Unit = {
+                    println("touchUp")
+                    name = "Test_1"
+                    txLogin.setText(name)
 
+                }
+
+                override def touchDown(event: InputEvent, x: Float, y: Float, pointer: Int, button: Int): Boolean = {
+                    println("touchDown")
+                    true
+                }
+            })
+        }
+        val button2 = new TextButton("Test_2", skin) {
+            setPosition(700, 620)
+            addListener(new InputListener() {
+                override def touchUp(event: InputEvent, x: Float, y: Float, pointer: Int, button: Int): Unit = {
+                    println("touchUp")
+                    name = "Test_2"
+                    txLogin.setText(name)
+                }
+
+                override def touchDown(event: InputEvent, x: Float, y: Float, pointer: Int, button: Int): Boolean = {
+                    println("touchDown")
+                    true
+                }
+            })
+        }
         stage.addActor(lLogin)
         stage.addActor(txLogin)
         stage.addActor(lPass)
         stage.addActor(txPass)
         stage.addActor(button)
+        stage.addActor(button1)
+        stage.addActor(button2)
 
+
+
+//        val window = new Window("test",skin )
+//        stage.addActor(window)
     }
 
     override def render(delta: Float): Unit = {

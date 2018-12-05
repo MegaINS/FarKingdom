@@ -2,7 +2,7 @@ package ru.megains.farkingdom.network
 
 import ru.megains.farkingdom.network.packet._
 import ru.megains.farkingdom.network.packet.login.{PacketLogin, SPacketLoginSuccess}
-import ru.megains.farkingdom.network.packet.play.SPacketWorldLoad
+import ru.megains.farkingdom.network.packet.play.{SLocationPlayer, SPacketWorldLoad, SPlayerAction}
 
 import scala.collection.mutable
 
@@ -70,13 +70,13 @@ object ConnectionState {
         registerServerPacket(classOf[SPacketDisconnect])
         registerServerPacket(classOf[SPacketWorldLoad])
       //  registerServerPacket(classOf[SPacketLocInfo])
-      //  registerServerPacket(classOf[CPlayerMove])
-      //  registerServerPacket(classOf[SLocationPlayer])
+       // registerServerPacket(classOf[CPlayerMove])
+        registerServerPacket(classOf[SLocationPlayer])
        // registerServerPacket(classOf[SPacketPlayerInfo])
        // registerServerPacket(classOf[SLocUpdate])
 
 
-      //  registerClientPacket(classOf[SPlayerAction])
+        registerClientPacket(classOf[SPlayerAction])
     }
 
 
