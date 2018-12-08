@@ -1,0 +1,173 @@
+
+store.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg_br
+  rotate: false
+  xy: 1, 30
+  size: 215, 32
+  orig: 215, 32
+  offset: 0, 0
+  index: -1
+cell_bg3
+  rotate: false
+  xy: 1, 4
+  size: 155, 24
+  orig: 155, 24
+  offset: 0, 0
+  index: -1
+cell_sel_bg3
+  rotate: false
+  xy: 158, 4
+  size: 155, 24
+  orig: 155, 24
+  offset: 0, 0
+  index: -1
+bg_bl
+  rotate: false
+  xy: 218, 30
+  size: 118, 32
+  orig: 118, 32
+  offset: 0, 0
+  index: -1
+btn_close
+  rotate: false
+  xy: 315, 9
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+btn_set
+  rotate: false
+  xy: 338, 43
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+cell_progress
+  rotate: false
+  xy: 338, 31
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+btn_add
+  rotate: false
+  xy: 403, 22
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+btn_remove
+  rotate: false
+  xy: 426, 43
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+dis_add
+  rotate: false
+  xy: 403, 1
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+dis_remove
+  rotate: false
+  xy: 486, 22
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+btn_open
+  rotate: false
+  xy: 509, 43
+  size: 73, 19
+  orig: 73, 19
+  offset: 0, 0
+  index: -1
+dis_open
+  rotate: false
+  xy: 486, 1
+  size: 73, 19
+  orig: 73, 19
+  offset: 0, 0
+  index: -1
+btn_buy
+  rotate: false
+  xy: 561, 1
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+dis_buy
+  rotate: false
+  xy: 569, 22
+  size: 72, 19
+  orig: 72, 19
+  offset: 0, 0
+  index: -1
+bg_type_count
+  rotate: false
+  xy: 635, 5
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+cell_bg1
+  rotate: false
+  xy: 643, 38
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+cell_sel_bg1
+  rotate: false
+  xy: 667, 12
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+cell_bg2
+  rotate: false
+  xy: 674, 38
+  size: 1, 24
+  orig: 1, 24
+  offset: 0, 0
+  index: -1
+cell_sel_bg2
+  rotate: false
+  xy: 677, 38
+  size: 1, 24
+  orig: 1, 24
+  offset: 0, 0
+  index: -1
+btn_controls
+  rotate: false
+  xy: 698, 20
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+btn_out
+  rotate: false
+  xy: 746, 20
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+dis_controls
+  rotate: false
+  xy: 794, 20
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+sel_controls
+  rotate: false
+  xy: 842, 20
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1

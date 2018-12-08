@@ -1,6 +1,6 @@
 package ru.megains.farkingdom.network.packet.play
 
-import ru.megains.farkingdom.Army
+import ru.megains.farkingdom.{Army, BUnit}
 import ru.megains.farkingdom.network.handler.NetHandlerPlayClient
 import ru.megains.farkingdom.network.packet.{PacketBufferS, PacketRead}
 import ru.megains.farkingdom.world.GameCell
@@ -29,9 +29,22 @@ class SPacketWorldLoad extends PacketRead[NetHandlerPlayClient] {
             val isArmy = buf.readBoolean()
             if (isArmy){
                 val armyName = buf.readStringFromBuffer(255)
-                val units = new Array[Int](5)
+                val units = new Array[BUnit](5)
                 for (i <- units.indices) {
-                    units(i) = buf.readInt()
+                    val idIn = buf.readInt()
+                    if(idIn!=0){
+                        val unit = new BUnit(){
+                            id = idIn
+                            name =  buf.readStringFromBuffer(255)
+                            level = buf.readInt()
+                            hp = buf.readInt()
+                            midDam = buf.readInt()
+                            maxDam = buf.readInt()
+                            power = buf.readInt()
+                        }
+                        units(i) = unit
+                    }
+
                 }
 
                 val army = new Army(armyName, units)

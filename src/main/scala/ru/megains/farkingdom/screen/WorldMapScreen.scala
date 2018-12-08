@@ -55,8 +55,8 @@ class WorldMapScreen extends GameScreen {
 
         player = new Sprite(new Texture("world/unit/10.png"))
         entity = new Sprite(new Texture("world/unit/11.png"))
-        for (x1 <- -x to x;
-             y1 <- -y to y) {
+        for (x1 <- -1 to 1;
+             y1 <- -1 to 1) {
             val x = x1 * -1
             val y = y1 * -1
 
@@ -90,7 +90,7 @@ class WorldMapScreen extends GameScreen {
             players += id -> new Player(entity)
         }
         players(id).setPos(posX, posY)
-        stage.addActor(players(id))
+       // stage.addActor(players(id))
     }
 
     override def render(delta: Float): Unit = {
@@ -98,7 +98,7 @@ class WorldMapScreen extends GameScreen {
         Gdx.gl.glClear(GL11.GL_COLOR_BUFFER_BIT)
 
 
-        stage.act()
+       // stage.act()
 
         stage.draw()
 

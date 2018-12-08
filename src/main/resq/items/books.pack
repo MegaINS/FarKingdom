@@ -1,0 +1,684 @@
+
+books.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+book_breaklock
+  rotate: false
+  xy: 1, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_chaos
+  rotate: false
+  xy: 1, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft1
+  rotate: false
+  xy: 91, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft2
+  rotate: false
+  xy: 1, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft3
+  rotate: false
+  xy: 91, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft_alchemy1
+  rotate: false
+  xy: 181, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft_jewelry1
+  rotate: false
+  xy: 1, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft_jewelry2
+  rotate: false
+  xy: 91, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft_jewelry3
+  rotate: false
+  xy: 181, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft_process1
+  rotate: false
+  xy: 271, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft_weapon1
+  rotate: false
+  xy: 1, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft_weapon2
+  rotate: false
+  xy: 91, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_craft_weapon3
+  rotate: false
+  xy: 181, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_fight1
+  rotate: false
+  xy: 271, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_fight2
+  rotate: false
+  xy: 361, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_fight3
+  rotate: false
+  xy: 1, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_law
+  rotate: false
+  xy: 91, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_magic1
+  rotate: false
+  xy: 181, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_magic1
+  rotate: false
+  xy: 271, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 1
+book_magic2
+  rotate: false
+  xy: 361, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_magic3
+  rotate: false
+  xy: 451, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_mine1
+  rotate: false
+  xy: 1, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_mine2
+  rotate: false
+  xy: 91, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_mine3
+  rotate: false
+  xy: 181, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_mine_gather1
+  rotate: false
+  xy: 271, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_mine_skin1
+  rotate: false
+  xy: 361, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_mine_skin2
+  rotate: false
+  xy: 451, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_mine_wood1
+  rotate: false
+  xy: 541, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_steal1
+  rotate: false
+  xy: 1, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_steal2
+  rotate: false
+  xy: 91, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_steal3
+  rotate: false
+  xy: 181, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_treasure1
+  rotate: false
+  xy: 271, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_treasure2
+  rotate: false
+  xy: 361, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_treasure3
+  rotate: false
+  xy: 451, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_alchemy1
+  rotate: false
+  xy: 541, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_alchemy2
+  rotate: false
+  xy: 631, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_alchemy3
+  rotate: false
+  xy: 1, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_alchemy4
+  rotate: false
+  xy: 91, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft1
+  rotate: false
+  xy: 181, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft2
+  rotate: false
+  xy: 271, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft3
+  rotate: false
+  xy: 361, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft4
+  rotate: false
+  xy: 451, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft_jewelry1
+  rotate: false
+  xy: 541, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft_jewelry2
+  rotate: false
+  xy: 631, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft_jewelry3
+  rotate: false
+  xy: 721, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft_jewelry4
+  rotate: false
+  xy: 1, 1
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft_weapon1
+  rotate: false
+  xy: 91, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft_weapon2
+  rotate: false
+  xy: 181, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft_weapon3
+  rotate: false
+  xy: 271, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_craft_weapon4
+  rotate: false
+  xy: 361, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_fight1
+  rotate: false
+  xy: 451, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_fight2
+  rotate: false
+  xy: 541, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_fight2_chaos
+  rotate: false
+  xy: 631, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_fight2_law
+  rotate: false
+  xy: 721, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_fight3
+  rotate: false
+  xy: 811, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_fight4
+  rotate: false
+  xy: 91, 1
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_letter01
+  rotate: false
+  xy: 181, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_letter02
+  rotate: false
+  xy: 271, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_magic1
+  rotate: false
+  xy: 361, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_magic2
+  rotate: false
+  xy: 451, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_magic3
+  rotate: false
+  xy: 541, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_magic5
+  rotate: false
+  xy: 631, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_mine1
+  rotate: false
+  xy: 721, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_mine2
+  rotate: false
+  xy: 811, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_mine3
+  rotate: false
+  xy: 901, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+recipe_mine4
+  rotate: false
+  xy: 181, 1
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft1
+  rotate: false
+  xy: 271, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft2
+  rotate: false
+  xy: 361, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft3
+  rotate: false
+  xy: 451, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_cloth1
+  rotate: false
+  xy: 541, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_cloth2
+  rotate: false
+  xy: 631, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_coal1
+  rotate: false
+  xy: 721, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_coal2
+  rotate: false
+  xy: 811, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_jewelry1
+  rotate: false
+  xy: 901, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_jewelry2
+  rotate: false
+  xy: 271, 1
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_jewelry3
+  rotate: false
+  xy: 361, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_leatherproc1
+  rotate: false
+  xy: 451, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_leatherproc2
+  rotate: false
+  xy: 541, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_weapon1
+  rotate: false
+  xy: 631, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_weapon2
+  rotate: false
+  xy: 721, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_weapon3
+  rotate: false
+  xy: 811, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_woodproc1
+  rotate: false
+  xy: 901, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_craft_woodproc2
+  rotate: false
+  xy: 361, 1
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_energy
+  rotate: false
+  xy: 451, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_fight1
+  rotate: false
+  xy: 541, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_fight2
+  rotate: false
+  xy: 631, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_fight2_chaos
+  rotate: false
+  xy: 721, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_fight3
+  rotate: false
+  xy: 811, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_healing
+  rotate: false
+  xy: 901, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_healing2
+  rotate: false
+  xy: 451, 1
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_magic1
+  rotate: false
+  xy: 541, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_magic2
+  rotate: false
+  xy: 631, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_magic3
+  rotate: false
+  xy: 721, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_mine1
+  rotate: false
+  xy: 811, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_mine2
+  rotate: false
+  xy: 901, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+scroll_mine3
+  rotate: false
+  xy: 541, 1
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+book_myst
+  rotate: false
+  xy: 631, 54
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1

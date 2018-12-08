@@ -1,0 +1,978 @@
+
+materials.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mat_alc_cherep_krolika
+  rotate: false
+  xy: 1, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_cherep_krolika2
+  rotate: false
+  xy: 1, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_grib_sin
+  rotate: false
+  xy: 91, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_grib_solnech
+  rotate: false
+  xy: 1, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_grib_solnech2
+  rotate: false
+  xy: 91, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_rog_kilota
+  rotate: false
+  xy: 181, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_rog_kilota2
+  rotate: false
+  xy: 1, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_shishka_zlatolist
+  rotate: false
+  xy: 91, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_shishka_zlatolist2
+  rotate: false
+  xy: 181, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_snakeskin2
+  rotate: false
+  xy: 271, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_yagoda_blue
+  rotate: false
+  xy: 1, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_yagoda_blue2
+  rotate: false
+  xy: 91, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_yasen2
+  rotate: false
+  xy: 181, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_zholud
+  rotate: false
+  xy: 271, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_alc_zholud2
+  rotate: false
+  xy: 361, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_amity
+  rotate: false
+  xy: 1, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_arhelin
+  rotate: false
+  xy: 91, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_bferabo
+  rotate: false
+  xy: 181, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_blackskin
+  rotate: false
+  xy: 271, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_ch_glaavir
+  rotate: false
+  xy: 361, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_ch_ryg
+  rotate: false
+  xy: 451, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_cloth01
+  rotate: false
+  xy: 1, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_cloth02
+  rotate: false
+  xy: 91, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_cloth03
+  rotate: false
+  xy: 181, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_cloth04
+  rotate: false
+  xy: 271, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_cloth05
+  rotate: false
+  xy: 361, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_coal_ferabo
+  rotate: false
+  xy: 451, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_coal_yasen
+  rotate: false
+  xy: 541, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_coal__bluetis
+  rotate: false
+  xy: 1, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_coal__dub
+  rotate: false
+  xy: 91, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_coal__zlatolist
+  rotate: false
+  xy: 181, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_egg_snake
+  rotate: false
+  xy: 271, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_eterdust
+  rotate: false
+  xy: 361, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_eternium
+  rotate: false
+  xy: 451, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_geml
+  rotate: false
+  xy: 541, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 1
+mat_geml
+  rotate: false
+  xy: 631, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 2
+mat_gem_amethyst
+  rotate: false
+  xy: 1, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_amethyst1
+  rotate: false
+  xy: 91, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_amethyst2
+  rotate: false
+  xy: 181, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_amethyst3
+  rotate: false
+  xy: 271, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_benitoit_sf
+  rotate: false
+  xy: 361, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_berill_sf
+  rotate: false
+  xy: 451, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_bloodonyx
+  rotate: false
+  xy: 541, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_diamond
+  rotate: false
+  xy: 631, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_diamond1
+  rotate: false
+  xy: 721, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_diamond2
+  rotate: false
+  xy: 1, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_diamond3
+  rotate: false
+  xy: 91, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_emerald
+  rotate: false
+  xy: 181, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_emerald1
+  rotate: false
+  xy: 271, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_emerald2
+  rotate: false
+  xy: 361, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_emerald3
+  rotate: false
+  xy: 451, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_feerite
+  rotate: false
+  xy: 541, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_feerite1
+  rotate: false
+  xy: 631, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_feerite2
+  rotate: false
+  xy: 721, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_feerite3
+  rotate: false
+  xy: 811, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_flameonyx
+  rotate: false
+  xy: 1, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_geliodor2
+  rotate: false
+  xy: 91, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_geliodor3
+  rotate: false
+  xy: 181, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_granat_sf
+  rotate: false
+  xy: 271, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_lazurit2
+  rotate: false
+  xy: 361, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_onyx
+  rotate: false
+  xy: 451, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_onyx1
+  rotate: false
+  xy: 541, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_onyx2
+  rotate: false
+  xy: 631, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_onyx3
+  rotate: false
+  xy: 721, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_proto
+  rotate: false
+  xy: 811, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_protoclean
+  rotate: false
+  xy: 901, 834
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_ruby
+  rotate: false
+  xy: 1, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_ruby1
+  rotate: false
+  xy: 91, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_ruby2
+  rotate: false
+  xy: 181, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_ruby3
+  rotate: false
+  xy: 271, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_scapolit_sf
+  rotate: false
+  xy: 361, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_soulforest
+  rotate: false
+  xy: 451, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_topaz
+  rotate: false
+  xy: 541, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_topaz1
+  rotate: false
+  xy: 631, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_topaz2
+  rotate: false
+  xy: 721, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_topaz3
+  rotate: false
+  xy: 811, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_gem_verdelit_sf
+  rotate: false
+  xy: 901, 785
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_goldsand
+  rotate: false
+  xy: 1, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_heart
+  rotate: false
+  xy: 91, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_inferni
+  rotate: false
+  xy: 181, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_leather_boar
+  rotate: false
+  xy: 271, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_leather_kilot
+  rotate: false
+  xy: 361, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_leather_varask
+  rotate: false
+  xy: 451, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_leather_wolf
+  rotate: false
+  xy: 541, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_leather_zajac
+  rotate: false
+  xy: 631, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal
+  rotate: false
+  xy: 721, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 1
+mat_metal
+  rotate: false
+  xy: 811, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 2
+mat_metal
+  rotate: false
+  xy: 901, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 3
+mat_metal_copper2
+  rotate: false
+  xy: 901, 736
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_cagalyte
+  rotate: false
+  xy: 1, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_cagalyte1
+  rotate: false
+  xy: 91, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_cagalyte2
+  rotate: false
+  xy: 181, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_copper
+  rotate: false
+  xy: 271, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_copper1
+  rotate: false
+  xy: 361, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_copper3
+  rotate: false
+  xy: 451, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_gold
+  rotate: false
+  xy: 541, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_gold1
+  rotate: false
+  xy: 631, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_gold2
+  rotate: false
+  xy: 721, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_gold3
+  rotate: false
+  xy: 811, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_iron
+  rotate: false
+  xy: 901, 687
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_iron1
+  rotate: false
+  xy: 1, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_iron2
+  rotate: false
+  xy: 91, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_iron3
+  rotate: false
+  xy: 181, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_ironite
+  rotate: false
+  xy: 271, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_metal_rusty_iron
+  rotate: false
+  xy: 361, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_paper1
+  rotate: false
+  xy: 451, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin
+  rotate: false
+  xy: 541, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 1
+mat_skin
+  rotate: false
+  xy: 631, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 2
+mat_skin
+  rotate: false
+  xy: 721, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 3
+mat_skin_boar
+  rotate: false
+  xy: 811, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_deer
+  rotate: false
+  xy: 901, 638
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_kilot
+  rotate: false
+  xy: 1, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_kilot1
+  rotate: false
+  xy: 91, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_kilot2
+  rotate: false
+  xy: 181, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_rabbit
+  rotate: false
+  xy: 271, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_tigerrabbit
+  rotate: false
+  xy: 271, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_rabbit1
+  rotate: false
+  xy: 361, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_varask
+  rotate: false
+  xy: 451, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_wolf
+  rotate: false
+  xy: 541, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_skin_wolf1
+  rotate: false
+  xy: 631, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_spellum
+  rotate: false
+  xy: 721, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_woodblock_bluetis
+  rotate: false
+  xy: 811, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_woodblock_dub
+  rotate: false
+  xy: 901, 589
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_woodblock_klen
+  rotate: false
+  xy: 1, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_woodblock_yasen
+  rotate: false
+  xy: 91, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_woodblock_zlatolist
+  rotate: false
+  xy: 181, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_wood
+  rotate: false
+  xy: 271, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 1
+mat_wood
+  rotate: false
+  xy: 361, 246
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 2
+mat_wood
+  rotate: false
+  xy: 451, 295
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 3
+mat_wood
+  rotate: false
+  xy: 541, 344
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 4
+mat_wood
+  rotate: false
+  xy: 631, 393
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: 5
+mat_wood_bad_topol
+  rotate: false
+  xy: 721, 442
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_wood_bluetis
+  rotate: false
+  xy: 811, 491
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_wood_dub
+  rotate: false
+  xy: 901, 540
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_wood_log6
+  rotate: false
+  xy: 1, 1
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_wood_osina
+  rotate: false
+  xy: 91, 50
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_wood_yasen
+  rotate: false
+  xy: 181, 99
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+mat_wood_zlatolist
+  rotate: false
+  xy: 271, 148
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1
+res_alchemy
+  rotate: false
+  xy: 361, 197
+  size: 88, 47
+  orig: 88, 47
+  offset: 0, 0
+  index: -1

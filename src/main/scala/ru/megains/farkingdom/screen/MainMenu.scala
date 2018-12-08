@@ -108,8 +108,14 @@ class MainMenu extends Screen {
 
 
 
-//        val window = new Window("test",skin )
-//        stage.addActor(window)
+        val window = new Window("test",skin ){
+            val exit = new TextButton("EXIT",skin)
+            exit.setPosition(200,200)
+        }
+        stage.addActor(window)
+
+       // val window1 = new Window("test",skin )
+       // stage.addActor(window1)
     }
 
     override def render(delta: Float): Unit = {

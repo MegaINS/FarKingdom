@@ -1,0 +1,1748 @@
+
+shop.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btn_set_price
+  rotate: false
+  xy: 1, 471
+  size: 199, 31
+  orig: 199, 31
+  offset: 0, 0
+  index: -1
+dis_set_price
+  rotate: false
+  xy: 1, 438
+  size: 199, 31
+  orig: 199, 31
+  offset: 0, 0
+  index: -1
+over_set_price
+  rotate: false
+  xy: 202, 471
+  size: 199, 31
+  orig: 199, 31
+  offset: 0, 0
+  index: -1
+sel_set_price
+  rotate: false
+  xy: 1, 405
+  size: 199, 31
+  orig: 199, 31
+  offset: 0, 0
+  index: -1
+btn_add
+  rotate: false
+  xy: 202, 438
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+btn_buy
+  rotate: false
+  xy: 403, 471
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+btn_remove
+  rotate: false
+  xy: 1, 372
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+btn_sell
+  rotate: false
+  xy: 202, 405
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+dis_add
+  rotate: false
+  xy: 356, 438
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+dis_buy
+  rotate: false
+  xy: 557, 471
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+dis_remove
+  rotate: false
+  xy: 1, 339
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+dis_sell
+  rotate: false
+  xy: 155, 372
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+over_add
+  rotate: false
+  xy: 356, 405
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+over_buy
+  rotate: false
+  xy: 510, 438
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+over_remove
+  rotate: false
+  xy: 711, 471
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+over_sell
+  rotate: false
+  xy: 1, 306
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+sel_add
+  rotate: false
+  xy: 155, 339
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+sel_buy
+  rotate: false
+  xy: 309, 372
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+sel_remove
+  rotate: false
+  xy: 510, 405
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+sel_sell
+  rotate: false
+  xy: 664, 438
+  size: 152, 31
+  orig: 152, 31
+  offset: 0, 0
+  index: -1
+btn_my_items
+  rotate: false
+  xy: 865, 475
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1
+btn_shop_items
+  rotate: false
+  xy: 1, 277
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1
+dis_my_items
+  rotate: false
+  xy: 155, 310
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1
+dis_shop_items
+  rotate: false
+  xy: 309, 343
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1
+over_my_items
+  rotate: false
+  xy: 463, 376
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1
+over_shop_items
+  rotate: false
+  xy: 664, 409
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1
+sel_my_items
+  rotate: false
+  xy: 1, 248
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1
+sel_shop_items
+  rotate: false
+  xy: 1, 219
+  size: 130, 27
+  orig: 130, 27
+  offset: 0, 0
+  index: -1
+btn_avatar_long
+  rotate: false
+  xy: 1, 190
+  size: 115, 27
+  orig: 115, 27
+  offset: 0, 0
+  index: -1
+dis_avatar_long
+  rotate: false
+  xy: 1, 161
+  size: 115, 27
+  orig: 115, 27
+  offset: 0, 0
+  index: -1
+over_avatar_long
+  rotate: false
+  xy: 1, 132
+  size: 115, 27
+  orig: 115, 27
+  offset: 0, 0
+  index: -1
+sel_avatar_long
+  rotate: false
+  xy: 1, 103
+  size: 115, 27
+  orig: 115, 27
+  offset: 0, 0
+  index: -1
+txt_class
+  rotate: false
+  xy: 1, 91
+  size: 114, 10
+  orig: 114, 10
+  offset: 0, 0
+  index: -1
+btn_jewelry_long
+  rotate: false
+  xy: 1, 62
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+dis_jewelry_long
+  rotate: false
+  xy: 1, 33
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+sel_jewelry_long
+  rotate: false
+  xy: 1, 33
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+over_jewelry_long
+  rotate: false
+  xy: 1, 4
+  size: 91, 27
+  orig: 91, 27
+  offset: 0, 0
+  index: -1
+btn_armor_long
+  rotate: false
+  xy: 595, 376
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+btn_resources_long
+  rotate: false
+  xy: 680, 380
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: -1
+dis_resources_long
+  rotate: false
+  xy: 865, 446
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: -1
+sel_resources_long
+  rotate: false
+  xy: 865, 446
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: -1
+btn_books_long
+  rotate: false
+  xy: 957, 446
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+over_resources_long
+  rotate: false
+  xy: 155, 281
+  size: 90, 27
+  orig: 90, 27
+  offset: 0, 0
+  index: -1
+btn_weapon_long
+  rotate: false
+  xy: 133, 252
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+dis_armor_long
+  rotate: false
+  xy: 133, 223
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+sel_armor_long
+  rotate: false
+  xy: 133, 223
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+dis_weapon_long
+  rotate: false
+  xy: 309, 314
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+sel_weapon_long
+  rotate: false
+  xy: 309, 314
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+over_armor_long
+  rotate: false
+  xy: 463, 347
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+over_weapon_long
+  rotate: false
+  xy: 548, 347
+  size: 83, 27
+  orig: 83, 27
+  offset: 0, 0
+  index: -1
+btn_tools_long
+  rotate: false
+  xy: 680, 351
+  size: 81, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+dis_tools_long
+  rotate: false
+  xy: 133, 194
+  size: 81, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+sel_tools_long
+  rotate: false
+  xy: 133, 194
+  size: 81, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+over_tools_long
+  rotate: false
+  xy: 118, 165
+  size: 81, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+btn_scrolls_long
+  rotate: false
+  xy: 118, 136
+  size: 78, 27
+  orig: 78, 27
+  offset: 0, 0
+  index: -1
+dis_scrolls_long
+  rotate: false
+  xy: 118, 107
+  size: 78, 27
+  orig: 78, 27
+  offset: 0, 0
+  index: -1
+sel_scrolls_long
+  rotate: false
+  xy: 118, 107
+  size: 78, 27
+  orig: 78, 27
+  offset: 0, 0
+  index: -1
+over_scrolls_long
+  rotate: false
+  xy: 118, 78
+  size: 78, 27
+  orig: 78, 27
+  offset: 0, 0
+  index: -1
+btn_potions_long
+  rotate: false
+  xy: 394, 314
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+dis_books_long
+  rotate: false
+  xy: 462, 318
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+sel_books_long
+  rotate: false
+  xy: 462, 318
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+dis_potions_long
+  rotate: false
+  xy: 530, 318
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+sel_potions_long
+  rotate: false
+  xy: 530, 318
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+btn_amulets
+  rotate: false
+  xy: 818, 427
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_books_long
+  rotate: false
+  xy: 858, 417
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+over_potions_long
+  rotate: false
+  xy: 926, 417
+  size: 66, 27
+  orig: 66, 27
+  offset: 0, 0
+  index: -1
+btn_armor
+  rotate: false
+  xy: 218, 237
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_axe
+  rotate: false
+  xy: 633, 332
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+bg_group2
+  rotate: false
+  xy: 673, 347
+  size: 5, 27
+  orig: 5, 27
+  offset: 0, 0
+  index: -1
+btn_book
+  rotate: false
+  xy: 94, 34
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_boots
+  rotate: false
+  xy: 134, 34
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_bracers
+  rotate: false
+  xy: 174, 34
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_class1
+  rotate: false
+  xy: 94, 1
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+btn_class2
+  rotate: false
+  xy: 123, 1
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+btn_class3
+  rotate: false
+  xy: 152, 1
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+btn_class4
+  rotate: false
+  xy: 181, 1
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+btn_class5
+  rotate: false
+  xy: 994, 413
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+btn_class6
+  rotate: false
+  xy: 598, 314
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+btn_craft_alchemy
+  rotate: false
+  xy: 218, 193
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_class7
+  rotate: false
+  xy: 772, 376
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+btn_craft_carpenter
+  rotate: false
+  xy: 763, 332
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_craft_forging
+  rotate: false
+  xy: 627, 288
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_craft_jewelry
+  rotate: false
+  xy: 201, 149
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_craft_key
+  rotate: false
+  xy: 198, 105
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_dagger
+  rotate: false
+  xy: 241, 149
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_diadems
+  rotate: false
+  xy: 238, 105
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_earrings
+  rotate: false
+  xy: 214, 61
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_food
+  rotate: false
+  xy: 254, 61
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_gem
+  rotate: false
+  xy: 214, 17
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_hammer
+  rotate: false
+  xy: 254, 17
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_helmet
+  rotate: false
+  xy: 278, 105
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_leather
+  rotate: false
+  xy: 294, 61
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_metal
+  rotate: false
+  xy: 294, 17
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_mine
+  rotate: false
+  xy: 667, 288
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_mine_gather
+  rotate: false
+  xy: 707, 307
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_mine_skin
+  rotate: false
+  xy: 707, 263
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_mine_wood
+  rotate: false
+  xy: 747, 288
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_misc
+  rotate: false
+  xy: 747, 244
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_talismans
+  rotate: false
+  xy: 747, 244
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_potions
+  rotate: false
+  xy: 787, 288
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_potions1
+  rotate: false
+  xy: 787, 244
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+bg_type_count
+  rotate: false
+  xy: 247, 293
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+btn_potions2
+  rotate: false
+  xy: 258, 249
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_ring
+  rotate: false
+  xy: 258, 205
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_runes
+  rotate: false
+  xy: 298, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_scroll
+  rotate: false
+  xy: 338, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_scroll2
+  rotate: false
+  xy: 338, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_shield
+  rotate: false
+  xy: 298, 226
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_sword
+  rotate: false
+  xy: 378, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_wood
+  rotate: false
+  xy: 338, 226
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_amulets
+  rotate: false
+  xy: 418, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_amulets
+  rotate: false
+  xy: 418, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_armor
+  rotate: false
+  xy: 378, 226
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_armor
+  rotate: false
+  xy: 378, 226
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_axe
+  rotate: false
+  xy: 418, 226
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_axe
+  rotate: false
+  xy: 418, 226
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_book
+  rotate: false
+  xy: 298, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_book
+  rotate: false
+  xy: 298, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_boots
+  rotate: false
+  xy: 338, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_boots
+  rotate: false
+  xy: 338, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_bracers
+  rotate: false
+  xy: 378, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_bracers
+  rotate: false
+  xy: 378, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_craft_alchemy
+  rotate: false
+  xy: 418, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+btn_class_all
+  rotate: false
+  xy: 281, 149
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dis_class1
+  rotate: false
+  xy: 310, 149
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_class1
+  rotate: false
+  xy: 310, 149
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dis_craft_carpenter
+  rotate: false
+  xy: 318, 105
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_craft_carpenter
+  rotate: false
+  xy: 318, 105
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_class2
+  rotate: false
+  xy: 339, 149
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_class2
+  rotate: false
+  xy: 339, 149
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dis_craft_forging
+  rotate: false
+  xy: 368, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_craft_forging
+  rotate: false
+  xy: 368, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_craft_jewelry
+  rotate: false
+  xy: 408, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_craft_jewelry
+  rotate: false
+  xy: 408, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_craft_key
+  rotate: false
+  xy: 334, 61
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_craft_key
+  rotate: false
+  xy: 334, 61
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_dagger
+  rotate: false
+  xy: 334, 17
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_dagger
+  rotate: false
+  xy: 334, 17
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_class3
+  rotate: false
+  xy: 358, 105
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_class3
+  rotate: false
+  xy: 358, 105
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dis_diadems
+  rotate: false
+  xy: 387, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_diadems
+  rotate: false
+  xy: 387, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_earrings
+  rotate: false
+  xy: 374, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_earrings
+  rotate: false
+  xy: 374, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_food
+  rotate: false
+  xy: 374, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_gem
+  rotate: false
+  xy: 427, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_gem
+  rotate: false
+  xy: 427, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_hammer
+  rotate: false
+  xy: 414, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_hammer
+  rotate: false
+  xy: 414, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_helmet
+  rotate: false
+  xy: 414, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_helmet
+  rotate: false
+  xy: 414, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_leather
+  rotate: false
+  xy: 448, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_leather
+  rotate: false
+  xy: 448, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_metal
+  rotate: false
+  xy: 467, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_metal
+  rotate: false
+  xy: 467, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_mine
+  rotate: false
+  xy: 454, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_mine
+  rotate: false
+  xy: 454, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_mine_gather
+  rotate: false
+  xy: 454, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_mine_skin
+  rotate: false
+  xy: 494, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_mine_skin
+  rotate: false
+  xy: 494, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_mine_wood
+  rotate: false
+  xy: 494, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_mine_wood
+  rotate: false
+  xy: 494, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_potions
+  rotate: false
+  xy: 801, 383
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_potions
+  rotate: false
+  xy: 801, 383
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_potions1
+  rotate: false
+  xy: 803, 339
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_potions1
+  rotate: false
+  xy: 803, 339
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+bg_group1
+  rotate: false
+  xy: 796, 409
+  size: 3, 27
+  orig: 3, 27
+  offset: 0, 0
+  index: -1
+dis_potions2
+  rotate: false
+  xy: 827, 295
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_potions2
+  rotate: false
+  xy: 827, 295
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_ring
+  rotate: false
+  xy: 827, 251
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_ring
+  rotate: false
+  xy: 827, 251
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+bg_type1
+  rotate: false
+  xy: 841, 383
+  size: 3, 42
+  orig: 3, 42
+  offset: 0, 0
+  index: -1
+dis_runes
+  rotate: false
+  xy: 843, 339
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_runes
+  rotate: false
+  xy: 843, 339
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_scroll
+  rotate: false
+  xy: 867, 295
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_scroll2
+  rotate: false
+  xy: 867, 295
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_scroll
+  rotate: false
+  xy: 867, 295
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_scroll2
+  rotate: false
+  xy: 867, 295
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_shield
+  rotate: false
+  xy: 867, 251
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_shield
+  rotate: false
+  xy: 867, 251
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+bg_type2
+  rotate: false
+  xy: 846, 383
+  size: 3, 42
+  orig: 3, 42
+  offset: 0, 0
+  index: -1
+dis_class4
+  rotate: false
+  xy: 851, 384
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_class4
+  rotate: false
+  xy: 851, 384
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dis_class5
+  rotate: false
+  xy: 880, 384
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_class5
+  rotate: false
+  xy: 880, 384
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dis_sword
+  rotate: false
+  xy: 909, 373
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_sword
+  rotate: false
+  xy: 909, 373
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_talismans
+  rotate: false
+  xy: 949, 373
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_talismans
+  rotate: false
+  xy: 949, 373
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_class6
+  rotate: false
+  xy: 989, 380
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_class6
+  rotate: false
+  xy: 989, 380
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+dis_wood
+  rotate: false
+  xy: 458, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_wood
+  rotate: false
+  xy: 458, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_amulets
+  rotate: false
+  xy: 458, 226
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_armor
+  rotate: false
+  xy: 458, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_axe
+  rotate: false
+  xy: 498, 274
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_book
+  rotate: false
+  xy: 538, 274
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_boots
+  rotate: false
+  xy: 498, 230
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_bracers
+  rotate: false
+  xy: 498, 186
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_craft_alchemy
+  rotate: false
+  xy: 538, 230
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_craft_carpenter
+  rotate: false
+  xy: 538, 186
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_craft_forging
+  rotate: false
+  xy: 488, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_craft_jewelry
+  rotate: false
+  xy: 507, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_craft_key
+  rotate: false
+  xy: 528, 142
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_dagger
+  rotate: false
+  xy: 578, 270
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_diadems
+  rotate: false
+  xy: 578, 226
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_earrings
+  rotate: false
+  xy: 578, 182
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_food
+  rotate: false
+  xy: 618, 244
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_gem
+  rotate: false
+  xy: 618, 200
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_hammer
+  rotate: false
+  xy: 658, 244
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_helmet
+  rotate: false
+  xy: 658, 200
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_leather
+  rotate: false
+  xy: 698, 219
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_metal
+  rotate: false
+  xy: 568, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_mine
+  rotate: false
+  xy: 547, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_mine_gather
+  rotate: false
+  xy: 534, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_mine_skin
+  rotate: false
+  xy: 534, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_mine_wood
+  rotate: false
+  xy: 587, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_potions
+  rotate: false
+  xy: 574, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_potions1
+  rotate: false
+  xy: 574, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_potions2
+  rotate: false
+  xy: 608, 138
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_ring
+  rotate: false
+  xy: 648, 156
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_runes
+  rotate: false
+  xy: 627, 94
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_scroll
+  rotate: false
+  xy: 614, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_scroll2
+  rotate: false
+  xy: 614, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_shield
+  rotate: false
+  xy: 614, 6
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_sword
+  rotate: false
+  xy: 698, 175
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_talismans
+  rotate: false
+  xy: 738, 200
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+over_wood
+  rotate: false
+  xy: 778, 200
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_craft_alchemy
+  rotate: false
+  xy: 738, 156
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_food
+  rotate: false
+  xy: 778, 156
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+sel_mine_gather
+  rotate: false
+  xy: 654, 50
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+dis_class7
+  rotate: false
+  xy: 654, 17
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_class7
+  rotate: false
+  xy: 654, 17
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+btn_page_bg
+  rotate: false
+  xy: 997, 482
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+btn_page_left
+  rotate: false
+  xy: 883, 362
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+btn_page_right
+  rotate: false
+  xy: 883, 340
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+dis_class_all
+  rotate: false
+  xy: 908, 340
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_class_all
+  rotate: false
+  xy: 908, 340
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+over_class1
+  rotate: false
+  xy: 937, 340
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+over_class2
+  rotate: false
+  xy: 907, 307
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+over_class3
+  rotate: false
+  xy: 907, 274
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+over_class4
+  rotate: false
+  xy: 936, 307
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+over_class5
+  rotate: false
+  xy: 936, 274
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+over_class6
+  rotate: false
+  xy: 966, 340
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+over_class7
+  rotate: false
+  xy: 965, 307
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+over_class_all
+  rotate: false
+  xy: 965, 274
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+sel_page_bg
+  rotate: false
+  xy: 907, 252
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+sel_page_left
+  rotate: false
+  xy: 932, 252
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+sel_page_right
+  rotate: false
+  xy: 957, 252
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1

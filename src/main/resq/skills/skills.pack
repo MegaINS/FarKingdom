@@ -1,0 +1,530 @@
+
+skills.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg_1blue
+  rotate: false
+  xy: 1, 461
+  size: 394, 46
+  orig: 394, 46
+  offset: 0, 0
+  index: -1
+bg_1green
+  rotate: false
+  xy: 1, 413
+  size: 394, 46
+  orig: 394, 46
+  offset: 0, 0
+  index: -1
+bg_1indigo
+  rotate: false
+  xy: 397, 461
+  size: 394, 46
+  orig: 394, 46
+  offset: 0, 0
+  index: -1
+bg_1orange
+  rotate: false
+  xy: 1, 365
+  size: 394, 46
+  orig: 394, 46
+  offset: 0, 0
+  index: -1
+bg_1red
+  rotate: false
+  xy: 397, 413
+  size: 394, 46
+  orig: 394, 46
+  offset: 0, 0
+  index: -1
+bg_1violet
+  rotate: false
+  xy: 1, 317
+  size: 394, 46
+  orig: 394, 46
+  offset: 0, 0
+  index: -1
+bg_2blue
+  rotate: false
+  xy: 397, 371
+  size: 394, 40
+  orig: 394, 40
+  offset: 0, 0
+  index: -1
+bg_2green
+  rotate: false
+  xy: 1, 275
+  size: 394, 40
+  orig: 394, 40
+  offset: 0, 0
+  index: -1
+bg_2indigo
+  rotate: false
+  xy: 397, 329
+  size: 394, 40
+  orig: 394, 40
+  offset: 0, 0
+  index: -1
+bg_2orange
+  rotate: false
+  xy: 1, 233
+  size: 394, 40
+  orig: 394, 40
+  offset: 0, 0
+  index: -1
+bg_2red
+  rotate: false
+  xy: 397, 287
+  size: 394, 40
+  orig: 394, 40
+  offset: 0, 0
+  index: -1
+bg_2violet
+  rotate: false
+  xy: 1, 191
+  size: 394, 40
+  orig: 394, 40
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 397, 246
+  size: 387, 39
+  orig: 387, 39
+  offset: 0, 0
+  index: -1
+bg_3blue
+  rotate: false
+  xy: 1, 178
+  size: 394, 11
+  orig: 394, 11
+  offset: 0, 0
+  index: -1
+bg_3green
+  rotate: false
+  xy: 1, 165
+  size: 394, 11
+  orig: 394, 11
+  offset: 0, 0
+  index: -1
+bg_3indigo
+  rotate: false
+  xy: 1, 152
+  size: 394, 11
+  orig: 394, 11
+  offset: 0, 0
+  index: -1
+bg_3orange
+  rotate: false
+  xy: 1, 139
+  size: 394, 11
+  orig: 394, 11
+  offset: 0, 0
+  index: -1
+bg_3red
+  rotate: false
+  xy: 1, 126
+  size: 394, 11
+  orig: 394, 11
+  offset: 0, 0
+  index: -1
+bg_3violet
+  rotate: false
+  xy: 1, 113
+  size: 394, 11
+  orig: 394, 11
+  offset: 0, 0
+  index: -1
+bg_3ablue
+  rotate: false
+  xy: 1, 107
+  size: 394, 4
+  orig: 394, 4
+  offset: 0, 0
+  index: -1
+bg_3agreen
+  rotate: false
+  xy: 1, 101
+  size: 394, 4
+  orig: 394, 4
+  offset: 0, 0
+  index: -1
+bg_3aindigo
+  rotate: false
+  xy: 1, 95
+  size: 394, 4
+  orig: 394, 4
+  offset: 0, 0
+  index: -1
+bg_3aorange
+  rotate: false
+  xy: 1, 89
+  size: 394, 4
+  orig: 394, 4
+  offset: 0, 0
+  index: -1
+bg_3ared
+  rotate: false
+  xy: 1, 83
+  size: 394, 4
+  orig: 394, 4
+  offset: 0, 0
+  index: -1
+bg_3aviolet
+  rotate: false
+  xy: 1, 77
+  size: 394, 4
+  orig: 394, 4
+  offset: 0, 0
+  index: -1
+bg_bar
+  rotate: false
+  xy: 793, 496
+  size: 74, 11
+  orig: 74, 11
+  offset: 0, 0
+  index: -1
+skill_breaklock
+  rotate: false
+  xy: 397, 208
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_alchemy
+  rotate: false
+  xy: 1, 39
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_carpenter
+  rotate: false
+  xy: 793, 458
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_carpenter_bow
+  rotate: false
+  xy: 397, 170
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_carpenter_carpe
+  rotate: false
+  xy: 435, 208
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_carpenter_shield
+  rotate: false
+  xy: 1, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_forge_axe
+  rotate: false
+  xy: 39, 39
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight_axe
+  rotate: false
+  xy: 39, 39
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_forge_dagger
+  rotate: false
+  xy: 793, 420
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight_dagger
+  rotate: false
+  xy: 793, 420
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_forge_hammer
+  rotate: false
+  xy: 831, 458
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight_hammer
+  rotate: false
+  xy: 831, 458
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_forge_mineaxe
+  rotate: false
+  xy: 869, 471
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_mine_wood
+  rotate: false
+  xy: 869, 471
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_forge_pickaxe
+  rotate: false
+  xy: 397, 132
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_forge_sword
+  rotate: false
+  xy: 435, 170
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight
+  rotate: false
+  xy: 435, 170
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight_sword
+  rotate: false
+  xy: 435, 170
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_forging
+  rotate: false
+  xy: 473, 208
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_jewelry
+  rotate: false
+  xy: 39, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_jewelry_amulets
+  rotate: false
+  xy: 77, 39
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_jewelry_bracers
+  rotate: false
+  xy: 793, 382
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_jewelry_diadems
+  rotate: false
+  xy: 831, 420
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_jewelry_earrings
+  rotate: false
+  xy: 869, 433
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_jewelry_rings
+  rotate: false
+  xy: 907, 471
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_leather_armor
+  rotate: false
+  xy: 397, 94
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_leather_boots
+  rotate: false
+  xy: 435, 132
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_leather_forging
+  rotate: false
+  xy: 473, 170
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_leather_gloves
+  rotate: false
+  xy: 511, 208
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_leather_helmet
+  rotate: false
+  xy: 77, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_metal_armor
+  rotate: false
+  xy: 115, 39
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_craft_process
+  rotate: false
+  xy: 793, 344
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight_bow
+  rotate: false
+  xy: 831, 382
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight_double
+  rotate: false
+  xy: 869, 395
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight_magic
+  rotate: false
+  xy: 907, 433
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_fight_unarmed
+  rotate: false
+  xy: 945, 471
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_magic
+  rotate: false
+  xy: 435, 94
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_magic_runes
+  rotate: false
+  xy: 473, 132
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_magic_scrolls
+  rotate: false
+  xy: 511, 170
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_make_cloth
+  rotate: false
+  xy: 549, 208
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_make_coal
+  rotate: false
+  xy: 115, 1
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_make_leather
+  rotate: false
+  xy: 153, 39
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_make_wood
+  rotate: false
+  xy: 793, 306
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_mine
+  rotate: false
+  xy: 831, 344
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_mine_metal
+  rotate: false
+  xy: 869, 357
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_mine_skin
+  rotate: false
+  xy: 907, 395
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+skill_steal
+  rotate: false
+  xy: 945, 433
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+bar
+  rotate: false
+  xy: 786, 278
+  size: 1, 7
+  orig: 1, 7
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 397, 89
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

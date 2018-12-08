@@ -1,0 +1,838 @@
+
+gui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg_bott
+  rotate: false
+  xy: 1, 311
+  size: 168, 200
+  orig: 168, 200
+  offset: 0, 0
+  index: -1
+bg_attrs
+  rotate: false
+  xy: 171, 360
+  size: 174, 151
+  orig: 174, 151
+  offset: 0, 0
+  index: -1
+bg_items
+  rotate: false
+  xy: 347, 407
+  size: 174, 104
+  orig: 174, 104
+  offset: 0, 0
+  index: -1
+bg_items2
+  rotate: false
+  xy: 523, 407
+  size: 174, 104
+  orig: 174, 104
+  offset: 0, 0
+  index: -1
+bg_statbuttons
+  rotate: false
+  xy: 699, 457
+  size: 174, 54
+  orig: 174, 54
+  offset: 0, 0
+  index: -1
+bgright
+  rotate: false
+  xy: 347, 368
+  size: 184, 37
+  orig: 184, 37
+  offset: 0, 0
+  index: -1
+bg_stats
+  rotate: false
+  xy: 171, 326
+  size: 174, 32
+  orig: 174, 32
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 1, 284
+  size: 168, 25
+  orig: 168, 25
+  offset: 0, 0
+  index: -1
+battle_balans
+  rotate: false
+  xy: 699, 434
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+battle_life
+  rotate: false
+  xy: 347, 345
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+battle_stamina
+  rotate: false
+  xy: 533, 384
+  size: 160, 21
+  orig: 160, 21
+  offset: 0, 0
+  index: -1
+bgright_min
+  rotate: false
+  xy: 875, 474
+  size: 135, 37
+  orig: 135, 37
+  offset: 0, 0
+  index: -1
+bgleft
+  rotate: false
+  xy: 171, 287
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+btn_apply
+  rotate: false
+  xy: 1, 263
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+btn_profile
+  rotate: false
+  xy: 699, 413
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+dis_apply
+  rotate: false
+  xy: 246, 305
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+dis_profile
+  rotate: false
+  xy: 1, 242
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+over_apply
+  rotate: false
+  xy: 1, 221
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+over_profile
+  rotate: false
+  xy: 1, 200
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+sel_apply
+  rotate: false
+  xy: 1, 179
+  size: 86, 19
+  orig: 86, 19
+  offset: 0, 0
+  index: -1
+bar_life
+  rotate: false
+  xy: 347, 331
+  size: 89, 12
+  orig: 89, 12
+  offset: 0, 0
+  index: -1
+bar_stamina
+  rotate: false
+  xy: 533, 370
+  size: 89, 12
+  orig: 89, 12
+  offset: 0, 0
+  index: -1
+btn_clan
+  rotate: false
+  xy: 89, 263
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+dis_clan
+  rotate: false
+  xy: 1, 158
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+over_clan
+  rotate: false
+  xy: 89, 242
+  size: 78, 19
+  orig: 78, 19
+  offset: 0, 0
+  index: -1
+btn_log
+  rotate: false
+  xy: 1, 137
+  size: 77, 19
+  orig: 77, 19
+  offset: 0, 0
+  index: -1
+dis_log
+  rotate: false
+  xy: 89, 221
+  size: 77, 19
+  orig: 77, 19
+  offset: 0, 0
+  index: -1
+over_log
+  rotate: false
+  xy: 1, 116
+  size: 77, 19
+  orig: 77, 19
+  offset: 0, 0
+  index: -1
+btn_enter
+  rotate: false
+  xy: 1, 72
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+btn_rest
+  rotate: false
+  xy: 1, 28
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+dis_enter
+  rotate: false
+  xy: 89, 177
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+dis1
+  rotate: false
+  xy: 787, 415
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+bg_title1
+  rotate: false
+  xy: 1, 1
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+btn_info
+  rotate: false
+  xy: 246, 284
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+btn_inventory
+  rotate: false
+  xy: 875, 453
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+dis_info
+  rotate: false
+  xy: 938, 453
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+dis_inventory
+  rotate: false
+  xy: 438, 324
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+over_info
+  rotate: false
+  xy: 624, 363
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+bg_title3
+  rotate: false
+  xy: 29, 1
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+dis_rest
+  rotate: false
+  xy: 137, 177
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+over_enter
+  rotate: false
+  xy: 49, 72
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+over_rest
+  rotate: false
+  xy: 49, 28
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+over_inventory
+  rotate: false
+  xy: 81, 156
+  size: 61, 19
+  orig: 61, 19
+  offset: 0, 0
+  index: -1
+bgblue
+  rotate: false
+  xy: 80, 117
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+sel_enter
+  rotate: false
+  xy: 97, 73
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+sel_rest
+  rotate: false
+  xy: 97, 29
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+btnfilter
+  rotate: false
+  xy: 120, 117
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+btn_add
+  rotate: false
+  xy: 144, 156
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+selfilter
+  rotate: false
+  xy: 147, 117
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+txtfield_bg
+  rotate: false
+  xy: 145, 84
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+btnoptions
+  rotate: false
+  xy: 145, 53
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+btnclear
+  rotate: false
+  xy: 145, 24
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+btn_sub
+  rotate: false
+  xy: 57, 7
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+btnenter
+  rotate: false
+  xy: 509, 339
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 546, 339
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+overoptions
+  rotate: false
+  xy: 583, 339
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+btnenter_clan
+  rotate: false
+  xy: 620, 334
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+btnexit
+  rotate: false
+  xy: 657, 334
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+bar_weight
+  rotate: false
+  xy: 1012, 479
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1
+bar_weight_red
+  rotate: false
+  xy: 1012, 479
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1
+btnmaximize
+  rotate: false
+  xy: 309, 276
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dis_add
+  rotate: false
+  xy: 334, 305
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+btnme
+  rotate: false
+  xy: 367, 302
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+white50alpha
+  rotate: false
+  xy: 404, 299
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+btnmenu
+  rotate: false
+  xy: 436, 295
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+btnminimize
+  rotate: false
+  xy: 473, 295
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+seloptions
+  rotate: false
+  xy: 510, 308
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+btnsets
+  rotate: false
+  xy: 547, 310
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dis_sub
+  rotate: false
+  xy: 584, 318
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+btnsmile
+  rotate: false
+  xy: 510, 279
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+btn_center
+  rotate: false
+  xy: 547, 281
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+disclear
+  rotate: false
+  xy: 584, 289
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+disenter
+  rotate: false
+  xy: 621, 305
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+disenter_clan
+  rotate: false
+  xy: 658, 305
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+disexit
+  rotate: false
+  xy: 621, 276
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dismaximize
+  rotate: false
+  xy: 658, 276
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+disme
+  rotate: false
+  xy: 584, 260
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dismenu
+  rotate: false
+  xy: 547, 252
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+disminimize
+  rotate: false
+  xy: 621, 247
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dissets
+  rotate: false
+  xy: 658, 247
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dissmile
+  rotate: false
+  xy: 584, 231
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+dis_center
+  rotate: false
+  xy: 621, 218
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+overclear
+  rotate: false
+  xy: 658, 218
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+overenter
+  rotate: false
+  xy: 699, 384
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+overenter_clan
+  rotate: false
+  xy: 736, 384
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+over_add
+  rotate: false
+  xy: 687, 363
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+overexit
+  rotate: false
+  xy: 720, 355
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+overmaximize
+  rotate: false
+  xy: 757, 355
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+overme
+  rotate: false
+  xy: 773, 384
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+overmenu
+  rotate: false
+  xy: 810, 386
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+overminimize
+  rotate: false
+  xy: 794, 355
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+oversets
+  rotate: false
+  xy: 831, 357
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+oversmile
+  rotate: false
+  xy: 847, 386
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+over_center
+  rotate: false
+  xy: 868, 357
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selclear
+  rotate: false
+  xy: 346, 273
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selenter
+  rotate: false
+  xy: 861, 424
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selenter_clan
+  rotate: false
+  xy: 898, 424
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selexit
+  rotate: false
+  xy: 935, 424
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selmaximize
+  rotate: false
+  xy: 972, 424
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selme
+  rotate: false
+  xy: 884, 395
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selmenu
+  rotate: false
+  xy: 921, 395
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selminimize
+  rotate: false
+  xy: 958, 395
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selsets
+  rotate: false
+  xy: 905, 366
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+selsmile
+  rotate: false
+  xy: 942, 366
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+sel_add
+  rotate: false
+  xy: 905, 345
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+sel_sub
+  rotate: false
+  xy: 938, 345
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+addressed
+  rotate: false
+  xy: 694, 347
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+bg_title2
+  rotate: false
+  xy: 90, 1
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1
+private
+  rotate: false
+  xy: 100, 13
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+dis_fight
+  rotate: false
+  xy: 383, 286
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+dis_group
+  rotate: false
+  xy: 979, 379
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+fight
+  rotate: false
+  xy: 125, 13
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+fight2
+  rotate: false
+  xy: 995, 408
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+group
+  rotate: false
+  xy: 995, 392
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+info
+  rotate: false
+  xy: 383, 270
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+bar_exp
+  rotate: false
+  xy: 347, 326
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+bg_addresed
+  rotate: false
+  xy: 353, 326
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+bg_pvt
+  rotate: false
+  xy: 359, 326
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+bg_system
+  rotate: false
+  xy: 177, 172
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1

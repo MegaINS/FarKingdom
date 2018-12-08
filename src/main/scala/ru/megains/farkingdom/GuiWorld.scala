@@ -24,8 +24,8 @@ class GuiWorld(val worldMapScreen: WorldMapScreen) extends Stage {
             case army =>
                 for (i <- 0 to 4) {
                     val id = army.array(i)
-                    if (id != 0) {
-                        batch.draw(units(id), 200 + i * 100, 0)
+                    if (id != null) {
+                        batch.draw(units(id.name.toInt), 200 + i * 100, 0)
                     }
                 }
 
