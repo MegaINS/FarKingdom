@@ -10,9 +10,8 @@ class Player(val sprite:Sprite)  extends Actor{
     def setPos(x:Int,y:Int): Unit ={
         playerX = x
         playerY = y
-        setPosition(28+playerX*88-playerY*88,35+ playerY*44+playerX*44)
+        setPosition(28+playerX*88+playerY*88,35+ playerY*44-playerX*44)
     }
-
     override def draw(batch: Batch, parentAlpha: Float): Unit ={
         // super.draw(batch, parentAlpha)
         if(sprite!= null){

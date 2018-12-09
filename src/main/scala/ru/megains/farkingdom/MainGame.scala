@@ -5,6 +5,8 @@ import com.badlogic.gdx.graphics.OrthographicCamera
 import com.badlogic.gdx.math.Vector3
 import com.badlogic.gdx.scenes.scene2d.Stage
 import com.badlogic.gdx.utils.viewport.ExtendViewport
+import ru.megains.farkingdom.network.NetworkManager
+import ru.megains.farkingdom.network.packet.play.SPlayerAction
 import ru.megains.farkingdom.screen.WorldMapScreen
 import ru.megains.farkingdom.world.GameCell
 
@@ -40,15 +42,19 @@ class MainGame(val worldMapScreen: WorldMapScreen) extends Stage {
            val vec = cam.unproject(new Vector3().set(x.toFloat, y.toFloat, 0.0F))
            hit(vec.x, vec.y,false) match {
                case gameCell:GameCell=>
+
                   if( gameCell.army!= null){
+
+
                       worldMapScreen.selectArmy = gameCell.army
                   }
-                   println(vec.x, vec.y,gameCell.xCell,gameCell.yCell)
-                 //  NetworkManager.sendPacket(new SPlayerAction(PlayerAction.MOVE,gameCell.xCell,gameCell.yCell))
+                  // println(vec.x, vec.y,gameCell.xCell,gameCell.yCell)
+                   NetworkManager.sendPacket(new SPlayerAction(PlayerAction.MOVE,gameCell.xCell,gameCell.yCell))
                   // FarKingdom.gameScreen.touchUp(x,y, pointer, button)
 
                case value =>
-                   println(value)
+                  // println(value)
+                   println("=========================")
                   // Farlands.gameScreen.touchUp(x,y, pointer, button)
            }
 //

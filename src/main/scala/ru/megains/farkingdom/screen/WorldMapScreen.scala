@@ -12,6 +12,7 @@ import ru.megains.farkingdom.network.packet.play.SPlayerAction
 import ru.megains.farkingdom.world.GameCell
 
 import scala.collection.mutable
+import scala.collection.mutable.ArrayBuffer
 
 class WorldMapScreen extends GameScreen {
 
@@ -33,7 +34,7 @@ class WorldMapScreen extends GameScreen {
     val group: Group = new Group
 
     var selectArmy:Army = _
-
+    var armys:ArrayBuffer[Army]  = new ArrayBuffer[Army]()
     val players: mutable.HashMap[Int, Player] = new mutable.HashMap[Int, Player]()
     val sprites: mutable.HashMap[String, Sprite] = new mutable.HashMap[String, Sprite]()
     var player: Sprite = _
@@ -55,16 +56,17 @@ class WorldMapScreen extends GameScreen {
 
         player = new Sprite(new Texture("world/unit/10.png"))
         entity = new Sprite(new Texture("world/unit/11.png"))
-        for (x1 <- -1 to 1;
-             y1 <- -1 to 1) {
+        for (x1 <- -x to x;
+             y1 <- -y to y) {
             val x = x1 * -1
             val y = y1 * -1
 
-            val gameCell = map(getIndex(x, y))
+            val gameCell:GameCell = map(getIndex(x1, y1))
             gameCell.sprite = sprites(gameCell.name)
 
 
             if ( gameCell.army!= null) {
+                armys += gameCell.army
                 gameCell.army.sprite = units(gameCell.army.name toInt)
             }
             group.addActor(gameCell)
@@ -75,8 +77,9 @@ class WorldMapScreen extends GameScreen {
         stage.addActor(group)
 
         gui = new GuiWorld(this)
-
+        multiplexer.addProcessor(gui)
         multiplexer.addProcessor(stage)
+
         Gdx.input.setInputProcessor(multiplexer)
 
     }
@@ -90,7 +93,7 @@ class WorldMapScreen extends GameScreen {
             players += id -> new Player(entity)
         }
         players(id).setPos(posX, posY)
-       // stage.addActor(players(id))
+        stage.addActor(players(id))
     }
 
     override def render(delta: Float): Unit = {
@@ -98,13 +101,14 @@ class WorldMapScreen extends GameScreen {
         Gdx.gl.glClear(GL11.GL_COLOR_BUFFER_BIT)
 
 
-       // stage.act()
+
+        stage.act()
 
         stage.draw()
 
-
         gui.act()
         gui.draw()
+
 //        spriteBatch.setProjectionMatrix(stage.cam.combined)
 //        spriteBatch.begin()
 //

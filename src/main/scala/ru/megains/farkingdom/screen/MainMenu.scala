@@ -10,6 +10,7 @@ import ru.megains.farkingdom.network.handler.NetHandlerLoginClient
 import ru.megains.farkingdom.network.packet.CHandshake
 import ru.megains.farkingdom.network.packet.login.PacketLogin
 import ru.megains.farkingdom.network.{ConnectionState, NetworkManager}
+import ru.megains.farkingdom.world.GameCell
 
 
 class MainMenu extends Screen {
@@ -28,7 +29,7 @@ class MainMenu extends Screen {
         Gdx.input.setInputProcessor(stage)
 
         val skin: Skin = new Skin(Gdx.files.classpath("uiskin.json"))
-
+        GameCell.skin = skin
 
         val lLogin = new Label("LOGIN", skin) {
             setPosition(460, 500)
@@ -110,12 +111,19 @@ class MainMenu extends Screen {
 
         val window = new Window("test",skin ){
             val exit = new TextButton("EXIT",skin)
-            exit.setPosition(200,200)
+            exit.setPosition(120,120)
+            addActor(exit)
+          //  add(exit)
         }
         stage.addActor(window)
-
-       // val window1 = new Window("test",skin )
-       // stage.addActor(window1)
+      //  window.pack()
+//        val window1 = new Table(skin )
+//        val exit = new TextButton("EXIT",skin)
+//        window1.add(exit)
+//        window1.add(window)
+//        window1.setBackground(skin.get(classOf[Window.WindowStyle]).background)
+//        window1.pack()
+//        stage.addActor(window1)
     }
 
     override def render(delta: Float): Unit = {
